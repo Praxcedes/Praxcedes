@@ -74,7 +74,7 @@ A collaborative project for managing shared living spaces — tracking expenses,
 
 #### 🎯 [Smart Goal Planner](https://github.com/Praxcedes/Smart-Goal-Planner)
 A personal productivity app for setting and tracking goals. Designed to help users stay consistent and achieve daily targets.  
-🔹 *Tech Used:* React | Node.js | Express | MongoDB  
+🔹 *Tech Used:* React | Javascript 
 🔹 *Focus:* Goal tracking, frontend-backend integration, REST API  
 
 ---
