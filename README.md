@@ -4,9 +4,9 @@
 
 💻 I'm currently learning:
 - **Frontend:** React, Tailwind CSS, Next.js  
-- **Backend:** Python, Django, Flask, Node.js  
+- **Backend:** Python, Flask, Node.js  
 - **Databases:** PostgreSQL, MySQL, SQLite  
-- **Tools:** Git, Docker, Linux, VS Code  
+- **Tools:** Git, Linux, VS Code  
 
 🧠 Currently improving my skills in:
 - Building scalable APIs  
@@ -24,13 +24,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 ---
